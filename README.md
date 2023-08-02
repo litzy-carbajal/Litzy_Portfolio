@@ -1,11 +1,18 @@
-# Data Science and Machine Learning Litzy's Portfolio
+# Data Science and Machine Learning Portfolio - Litzy Carbajal
 
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+This portfolio will be a compilaton of all my data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+
+- **Email**: [litzyeleine@gmail.com](litzyeleine@gmail.com)
+- **LinkedIn**: [linkedin.com/in/litzy-carbajal](https://www.linkedin.com/in/litzy-carbajal/)
+
+
+## Contents
 
 Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
-  - **Machine Learning**: scikit-learn
-    
-## Contents
-- ## [Project 1: Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) 
-Analysis on Home Credit Default Risk. This is crucial for financial institutions and lenders to     manage risk, ensure profitability and compliance, and make informed decisions about their lending     practices. It helps create a more stable and responsible lending environment while safeguarding       the interests of both borrowers and lenders. 
+  - **Machine Learning**: scikit-learn    
+
+- ## [Project 1: Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
+  
+A significant portion of the population, particularly those with insufficient or non-existent credit histories, are more vulnerable to untrustworthy lenders who may take advantage of them. Home Credit looks to address this problem by providing a positive and safe borrowing experience for the unbanked population.
+The goal for this project will be the reduction in loan rejections for creditworthy individuals, and the improvement in clients' loan repayment rates compared to previous methods by using the target variable of whether a client is likely to repay the loan or not. This project is aiming to identify a predictive analytical model that will identify the customers who are likely to default or not. 
