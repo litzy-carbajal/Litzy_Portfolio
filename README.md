@@ -5,12 +5,11 @@ This portfolio will be a compilaton of all my data science projects completed fo
 - **Email**: [litzyeleine@gmail.com](litzyeleine@gmail.com)
 - **LinkedIn**: [linkedin.com/in/litzy-carbajal](https://www.linkedin.com/in/litzy-carbajal/)
 
-
-## Contents
-
-Tools
+## Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
-  - **Machine Learning**: scikit-learn    
+  - **Machine Learning**: scikit-learn 
+
+## Contents   
 
 - ## [Project 1: Home Credit Default Risk Analysis](https://github.com/litzy-carbajal/Home_Credit_Default_Risk_Analysis) 
   
